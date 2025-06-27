@@ -23,8 +23,8 @@ I enjoy solving real-world problems with code and turning data into meaningful i
 
 ---
 
-## 🚀 How to Run This App Locally
-
+## 🚀 How to Run This App Live
+https://annupriya28-annu-portfolio.streamlit.app
 ### 📦 Step 1: Clone the repository
 ```bash
 git clone https://github.com/Annupriya28/annu-portfolio.git
